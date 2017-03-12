@@ -19,4 +19,4 @@ heuristic:
 because the agent prefers paths not taken the agent may wander around until it gets to a point where all
 available open states are states that have already been visited before heading back in the direction of the exit
 
-#error always goes through same path forgot to make random choice when each path is considered equal
+error always goes through same path forgot to make random choice when each path is considered equal
